@@ -1,0 +1,14 @@
+print("MathHomework.py")
+
+
+ problem = input("Enter a math problem, or 'q' to quit: ")
+
+
+while (problem != "q"):
+    
+    
+   
+    
+    problem = input("Enter another math problem, or 'q' to quit: ")
+    
+     print("The answer to ", problem, "is:", eval(problem) 
